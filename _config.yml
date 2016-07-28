@@ -1,0 +1,14 @@
+layout_spectrum: 0.28438047505915165
+typography_spectrum: 0.45241513359360397
+color:
+  brandStrength: 0.9915388119406998
+  lightness: 0.435098122805357
+  saturation: 0.9294629751238972
+  rhythmicContrast: 0.25858119362965226
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Try
