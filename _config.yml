@@ -6,9 +6,10 @@ color:
   saturation: 0.9294629751238972
   rhythmicContrast: 0.25858119362965226
   brandColors:
-    - '#292929'
-    - '#5B7876'
-    - '#8F9E8B'
-    - '#F2E6B6'
-    - '#412A22'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Try
+title: Rusty Wright
