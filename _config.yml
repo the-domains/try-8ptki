@@ -1,4 +1,3 @@
-layout_spectrum: 0.28438047505915165
 typography_spectrum: 0.45241513359360397
 color:
   brandStrength: 0.9915388119406998
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.28438047505915165
 name: Try
 title: Rusty Wright
+description: I write.
